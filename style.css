@@ -1,0 +1,17 @@
+.titulo{
+    border-bottom: 1px solid silver;
+    
+}
+.espaco-baixo{
+    margin-bottom: 50px;
+}
+.img{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#svg{
+    height: 90%;
+    
+}
